@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>duong &#8211; koffe</title>
+	<title>duong &#8211; ban hang</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/duong/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tranngocduongg.github.io/koffe-new</link>
 	<description></description>
-	<lastBuildDate>Wed, 14 Sep 2022 02:03:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Oct 2022 03:58:43 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>trang chu</title>
+		<link>https://tranngocduongg.github.io/koffe-new/2022/10/03/trang-chu/</link>
+					<comments>https://tranngocduongg.github.io/koffe-new/2022/10/03/trang-chu/#respond</comments>
+		
+		<dc:creator><![CDATA[duong]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 03:58:43 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://tranngocduongg.github.io/koffe-new/?p=780</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tranngocduongg.github.io/koffe-new/2022/10/03/trang-chu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Our Team</title>
 		<link>https://tranngocduongg.github.io/koffe-new/2022/09/13/our-team/</link>
 					<comments>https://tranngocduongg.github.io/koffe-new/2022/09/13/our-team/#respond</comments>
@@ -105,27 +123,21 @@
 								<div class="elementor-element elementor-element-2c660e9 elementor-nav-menu__align-right elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="2c660e9" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="https://tranngocduongg.github.io/koffe-new/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-2c660e9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-503"><a href="https://tranngocduongg.github.io/koffe-new/home-2/" class="elementor-item">Home</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502"><a href="https://tranngocduongg.github.io/koffe-new/home-1/" class="elementor-sub-item">Home 1</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://tranngocduongg.github.io/koffe-new/home-2-2/" class="elementor-sub-item">Home 2</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://tranngocduongg.github.io/koffe-new/home-3/" class="elementor-sub-item">Home 3</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="https://tranngocduongg.github.io/koffe-new/home-4/" class="elementor-sub-item">Home 4</a></li>
-</ul>
-</li>
+				<ul id="menu-1-2c660e9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://tranngocduongg.github.io/koffe-new/tai-khoan/" class="elementor-item">Tài khoản</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://tranngocduongg.github.io/koffe-new/thanh-toan/" class="elementor-item">Thanh toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://tranngocduongg.github.io/koffe-new/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-784"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item">Trang Chủ</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-2c660e9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-503"><a href="https://tranngocduongg.github.io/koffe-new/home-2/" class="elementor-item" tabindex="-1">Home</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502"><a href="https://tranngocduongg.github.io/koffe-new/home-1/" class="elementor-sub-item" tabindex="-1">Home 1</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://tranngocduongg.github.io/koffe-new/home-2-2/" class="elementor-sub-item" tabindex="-1">Home 2</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://tranngocduongg.github.io/koffe-new/home-3/" class="elementor-sub-item" tabindex="-1">Home 3</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="https://tranngocduongg.github.io/koffe-new/home-4/" class="elementor-sub-item" tabindex="-1">Home 4</a></li>
-</ul>
-</li>
+				<ul id="menu-2-2c660e9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://tranngocduongg.github.io/koffe-new/tai-khoan/" class="elementor-item" tabindex="-1">Tài khoản</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://tranngocduongg.github.io/koffe-new/thanh-toan/" class="elementor-item" tabindex="-1">Thanh toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://tranngocduongg.github.io/koffe-new/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-784"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item" tabindex="-1">Trang Chủ</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -136,31 +148,21 @@
 								<div class="elementor-element elementor-element-92d19c0 elementor-nav-menu__align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="92d19c0" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-92d19c0" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-472"><a href="https://tranngocduongg.github.io/koffe-new/about-us-2/" class="elementor-item">About Us</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-477"><a href="https://tranngocduongg.github.io/koffe-new/2022/09/13/about-us/" class="elementor-sub-item">About Us</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-476"><a href="https://tranngocduongg.github.io/koffe-new/2022/09/13/what-we-offer/" class="elementor-sub-item">What We Offer</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-475"><a href="https://tranngocduongg.github.io/koffe-new/2022/09/13/our-team/" class="elementor-sub-item">Our Team</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="https://tranngocduongg.github.io/koffe-new/menu/" class="elementor-item">Menu</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://tranngocduongg.github.io/koffe-new/about-us/" class="elementor-item">Gallery</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="https://tranngocduongg.github.io/koffe-new/home/" class="elementor-item">Contact</a></li>
+				<ul id="menu-1-92d19c0" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://tranngocduongg.github.io/koffe-new/tai-khoan/" class="elementor-item">Tài khoản</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://tranngocduongg.github.io/koffe-new/thanh-toan/" class="elementor-item">Thanh toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://tranngocduongg.github.io/koffe-new/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-784"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item">Trang Chủ</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-92d19c0" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-472"><a href="https://tranngocduongg.github.io/koffe-new/about-us-2/" class="elementor-item" tabindex="-1">About Us</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-477"><a href="https://tranngocduongg.github.io/koffe-new/2022/09/13/about-us/" class="elementor-sub-item" tabindex="-1">About Us</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-476"><a href="https://tranngocduongg.github.io/koffe-new/2022/09/13/what-we-offer/" class="elementor-sub-item" tabindex="-1">What We Offer</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-475"><a href="https://tranngocduongg.github.io/koffe-new/2022/09/13/our-team/" class="elementor-sub-item" tabindex="-1">Our Team</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="https://tranngocduongg.github.io/koffe-new/menu/" class="elementor-item" tabindex="-1">Menu</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://tranngocduongg.github.io/koffe-new/about-us/" class="elementor-item" tabindex="-1">Gallery</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="https://tranngocduongg.github.io/koffe-new/home/" class="elementor-item" tabindex="-1">Contact</a></li>
+				<ul id="menu-2-92d19c0" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://tranngocduongg.github.io/koffe-new/tai-khoan/" class="elementor-item" tabindex="-1">Tài khoản</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://tranngocduongg.github.io/koffe-new/thanh-toan/" class="elementor-item" tabindex="-1">Thanh toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://tranngocduongg.github.io/koffe-new/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-784"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item" tabindex="-1">Trang Chủ</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -270,7 +272,7 @@
 								<div class="elementor-element elementor-element-18427d8 elementor-widget elementor-widget-image" data-id="18427d8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.3 - 29-08-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="580" height="387" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s20.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s20.jpg" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-e314d3b elementor-widget elementor-widget-heading" data-id="e314d3b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -286,7 +288,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-0840fd8 elementor-widget elementor-widget-image" data-id="0840fd8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="580" height="387" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s3.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s3.jpg" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-130c123 elementor-widget elementor-widget-heading" data-id="130c123" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -302,7 +304,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7375301 elementor-widget elementor-widget-image" data-id="7375301" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="580" height="387" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s4.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s4.jpg" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-4ba52ec elementor-widget elementor-widget-heading" data-id="4ba52ec" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -334,7 +336,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5712166 elementor-widget elementor-widget-image" data-id="5712166" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="580" height="387" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s24-1024x683-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s24-1024x683-1.jpg" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -342,7 +344,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-35e3569 elementor-widget elementor-widget-image" data-id="35e3569" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="580" height="387" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s2-1024x683-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s2-1024x683-1.jpg" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -350,7 +352,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9d0cce6 elementor-widget elementor-widget-image" data-id="9d0cce6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="580" height="387" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s1-1024x683-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/s1-1024x683-1.jpg" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -388,7 +390,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7e90ef2 elementor-widget elementor-widget-image" data-id="7e90ef2" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="100" height="150" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-9e54e80 elementor-widget elementor-widget-heading" data-id="9e54e80" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -416,7 +418,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-77c75eb elementor-widget elementor-widget-image" data-id="77c75eb" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="100" height="150" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-280c0a2 elementor-widget elementor-widget-heading" data-id="280c0a2" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -443,7 +445,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-870613b elementor-widget elementor-widget-image" data-id="870613b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="100" height="150" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-9080863 elementor-widget elementor-widget-heading" data-id="9080863" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -474,7 +476,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-65e7a5b elementor-widget elementor-widget-image" data-id="65e7a5b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="100" height="150" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-7dc71bd elementor-widget elementor-widget-heading" data-id="7dc71bd" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -501,7 +503,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f4e1415 elementor-widget elementor-widget-image" data-id="f4e1415" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="100" height="150" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-68624d6 elementor-widget elementor-widget-heading" data-id="68624d6" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -528,7 +530,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7f1cd88 elementor-widget elementor-widget-image" data-id="7f1cd88" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="100" height="150" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/koffemockup-1.png" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-980e259 elementor-widget elementor-widget-heading" data-id="980e259" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -658,7 +660,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>		</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-90ff00d elementor-absolute elementor-widget elementor-widget-image" data-id="90ff00d" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="300" height="300" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/testimonial-1-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/testimonial-1-1.jpg" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -705,7 +707,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>		</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2f0a0cf elementor-absolute elementor-widget elementor-widget-image" data-id="2f0a0cf" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="300" height="300" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/testimonial-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/testimonial-2.jpg" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -752,7 +754,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>		</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-0b19d20 elementor-absolute elementor-widget elementor-widget-image" data-id="0b19d20" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="300" height="300" src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/testimonial-3-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img src="https://tranngocduongg.github.io/koffe-new/wp-content/uploads/2022/08/testimonial-3-1.jpg" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>

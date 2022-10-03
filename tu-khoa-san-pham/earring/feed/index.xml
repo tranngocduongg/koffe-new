@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EARRING &#8211; ban hang</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/earring/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranngocduongg.github.io/koffe-new</link>
+	<description></description>
+	<lastBuildDate>Mon, 03 Oct 2022 02:51:29 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Bar Earrings</title>
+		<link>https://tranngocduongg.github.io/koffe-new/san-pham/bar-earrings/</link>
+					<comments>https://tranngocduongg.github.io/koffe-new/san-pham/bar-earrings/#respond</comments>
+		
+		<dc:creator><![CDATA[duong]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 02:50:08 +0000</pubDate>
+				<guid isPermaLink="false">https://tranngocduongg.github.io/koffe-new/?post_type=product&#038;p=738</guid>
+
+					<description><![CDATA[These bold bars are a modern take on the drop earring. As multifaceted as it is iconic, the Tiffany T collection is a tangible reminder of the connections we feel but can’t always see.]]></description>
+										<content:encoded><![CDATA[<div class="c-product__tabs-item description_tab active">
+<div id="tab-description" class="c-product__tabs-panel entry-content">
+<p>Feugiat mattis vel turpis venenatis, faucibus amet arcu. Nunc, scelerisque sit nunc, tincidunt gravida id enim. Dictum sagittis, nunc, sit purus facilisi vitae. Aenean ullamcorper vestibulum porttitor dui sed urna, pellentesque in. Vel proin venenatis mi, vitae tempus, metus imperdiet diam quis. Tortor ullamcorper egestas sem amet senectus. Sollicitudin praesent vitae sem dignissim neque scelerisque id leo fringilla. Aliquet dignissim id.</p>
+</div>
+</div>
+<div class="c-product__tabs-item additional_information_tab"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranngocduongg.github.io/koffe-new/san-pham/bar-earrings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ball Hook Earrings</title>
+		<link>https://tranngocduongg.github.io/koffe-new/san-pham/ball-hook-earrings/</link>
+					<comments>https://tranngocduongg.github.io/koffe-new/san-pham/ball-hook-earrings/#comments</comments>
+		
+		<dc:creator><![CDATA[duong]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 01:34:16 +0000</pubDate>
+				<guid isPermaLink="false">https://tranngocduongg.github.io/koffe-new/?post_type=product&#038;p=721</guid>
+
+					<description><![CDATA[Tiffany HardWear is elegantly subversive and captures the spirit of the women of New York City. Sleek and simple drop earrings add modern edge to any look.]]></description>
+										<content:encoded><![CDATA[<div class="c-product__tabs-item-header">Description</div>
+<div id="tab-description" class="c-product__tabs-panel entry-content">
+<p>Feugiat mattis vel turpis venenatis, faucibus amet arcu. Nunc, scelerisque sit nunc, tincidunt gravida id enim. Dictum sagittis, nunc, sit purus facilisi vitae. Aenean ullamcorper vestibulum porttitor dui sed urna, pellentesque in. Vel proin venenatis mi, vitae tempus, metus imperdiet diam quis. Tortor ullamcorper egestas sem amet senectus. Sollicitudin praesent vitae sem dignissim neque scelerisque id leo fringilla. Aliquet dignissim id.</p>
+<p>&nbsp;</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranngocduongg.github.io/koffe-new/san-pham/ball-hook-earrings/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
