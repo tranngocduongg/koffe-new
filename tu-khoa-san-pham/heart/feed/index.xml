@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HEART &#8211; ban hang</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/heart/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranngocduongg.github.io/koffe-new</link>
+	<description></description>
+	<lastBuildDate>Tue, 04 Oct 2022 00:47:14 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Heart Locket</title>
+		<link>https://tranngocduongg.github.io/koffe-new/san-pham/heart-locket/</link>
+					<comments>https://tranngocduongg.github.io/koffe-new/san-pham/heart-locket/#respond</comments>
+		
+		<dc:creator><![CDATA[duong]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 00:45:32 +0000</pubDate>
+				<guid isPermaLink="false">https://tranngocduongg.github.io/koffe-new/?post_type=product&#038;p=806</guid>
+
+					<description><![CDATA[<div class="c-product__short-description">
+
+Tiffany round diamonds catch the light and make it dance. Bracelet in 18k rose gold with a round brilliant diamond. 7″ long.
+
+</div>
+<div class="c-product__sub-wrap">
+<div class="c-product__sub-col-1">
+<div class="c-product__atc-wrap"><form class="cart init" action="https://parkofideas.com/goldish/demo/shop/diamonds-by-the-yard-bracelet/" enctype="multipart/form-data" method="post">
+<div class="c-product__quantity quantity"></div>
+</form></div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="c-product__tabs-item description_tab active">
+<div id="tab-description" class="c-product__tabs-panel entry-content">
+<p>Odio cursus diam, semper mauris aliquam ante. Hac imperdiet arcu aliquet lectus vitae venenatis, turpis et in. Senectus hac cras tellus tempus interdum tempus. Et arcu sed enim semper velit, vulputate adipiscing. Quis at penatibus sed donec lorem duis. Ultrices arcu pellentesque a pulvinar. Sit sed pharetra mattis cum potenti. In morbi egestas euismod erat faucibus leo convallis purus. Consequat lectus.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranngocduongg.github.io/koffe-new/san-pham/heart-locket/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

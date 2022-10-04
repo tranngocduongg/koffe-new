@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LEAF &#8211; ban hang</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/leaf/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranngocduongg.github.io/koffe-new</link>
+	<description></description>
+	<lastBuildDate>Tue, 04 Oct 2022 01:10:54 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Olive Leaf Earrings</title>
+		<link>https://tranngocduongg.github.io/koffe-new/san-pham/olive-leaf-earrings/</link>
+					<comments>https://tranngocduongg.github.io/koffe-new/san-pham/olive-leaf-earrings/#respond</comments>
+		
+		<dc:creator><![CDATA[duong]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 01:09:20 +0000</pubDate>
+				<guid isPermaLink="false">https://tranngocduongg.github.io/koffe-new/?post_type=product&#038;p=831</guid>
+
+					<description><![CDATA[<div class="c-product__short-description">
+
+Diamonds dazzle against the leaves in a design inspired by the olive branch, a symbol of peace and abundance.
+
+</div>
+<div class="c-product__sub-wrap">
+<div class="c-product__sub-col-1">
+<div class="c-product__atc-wrap"><form class="cart init" action="https://parkofideas.com/goldish/demo/shop/diamonds-by-the-yard-bracelet/" enctype="multipart/form-data" method="post">
+<div class="c-product__quantity quantity"></div>
+</form></div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="c-product__tabs-item description_tab active">
+<div id="tab-description" class="c-product__tabs-panel entry-content">
+<p>Feugiat mattis vel turpis venenatis, faucibus amet arcu. Nunc, scelerisque sit nunc, tincidunt gravida id enim. Dictum sagittis, nunc, sit purus facilisi vitae. Aenean ullamcorper vestibulum porttitor dui sed urna, pellentesque in. Vel proin venenatis mi, vitae tempus, metus imperdiet diam quis. Tortor ullamcorper egestas sem amet senectus. Sollicitudin praesent vitae sem dignissim neque scelerisque id leo fringilla. Aliquet dignissim id.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranngocduongg.github.io/koffe-new/san-pham/olive-leaf-earrings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Olive Leaf Band Ring</title>
+		<link>https://tranngocduongg.github.io/koffe-new/san-pham/nesting-narrow-band-ring-sao-chep/</link>
+					<comments>https://tranngocduongg.github.io/koffe-new/san-pham/nesting-narrow-band-ring-sao-chep/#respond</comments>
+		
+		<dc:creator><![CDATA[duong]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 01:07:11 +0000</pubDate>
+				<guid isPermaLink="false">https://tranngocduongg.github.io/koffe-new/?post_type=product&#038;p=826</guid>
+
+					<description><![CDATA[<div class="c-product__short-description">
+
+With beautifully sculpted leaves in 18k gold, Paloma honors the olive branch, a symbol of peace and abundance.
+
+</div>
+<div class="c-product__sub-wrap">
+<div class="c-product__sub-col-1">
+<div class="c-product__atc-wrap"><form class="cart init" action="https://parkofideas.com/goldish/demo/shop/diamonds-by-the-yard-bracelet/" enctype="multipart/form-data" method="post">
+<div class="c-product__quantity quantity"></div>
+</form></div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="c-product__tabs-item description_tab active">
+<div id="tab-description" class="c-product__tabs-panel entry-content">
+<p>Dignissim tempor, diam aenean in vulputate amet. Magna erat gravida sem turpis. Eget neque, augue odio ipsum orci nisl at faucibus. In elit eu sagittis egestas in lobortis neque, leo risus. Scelerisque risus facilisi sollicitudin a velit nibh ut. Scelerisque faucibus neque, ipsum et morbi. Vitae, blandit mattis tortor eu in nunc, magnis tristique odio. Ullamcorper orci nisl scelerisque eget at ullamcorper lorem.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranngocduongg.github.io/koffe-new/san-pham/nesting-narrow-band-ring-sao-chep/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
