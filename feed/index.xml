@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Top 5 Mẫu Lắc Chân PNJ Sang Chảnh 2022</title>
 		<link>https://tranngocduongg.github.io/koffe-new/2022/10/17/top-5-mau-lac-chan-pnj-sang-chanh-2022/</link>
@@ -134,21 +134,21 @@
 								<div class="elementor-element elementor-element-2c660e9 elementor-nav-menu__align-right elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="2c660e9" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="https://tranngocduongg.github.io/koffe-new/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-2c660e9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://tranngocduongg.github.io/koffe-new/tai-khoan/" class="elementor-item">Tài khoản</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://tranngocduongg.github.io/koffe-new/thanh-toan/" class="elementor-item">Thanh toán</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://tranngocduongg.github.io/koffe-new/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item">Cửa hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-784"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item">Trang Chủ</a></li>
+				<ul id="menu-1-2c660e9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-959"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item">Trang Chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-960"><a href="https://tranngocduongg.github.io/koffe-new/home-2/" class="elementor-item">blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-961"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="https://tranngocduongg.github.io/koffe-new/about-us-2/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://tranngocduongg.github.io/koffe-new/home/" class="elementor-item">Contact</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-2c660e9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://tranngocduongg.github.io/koffe-new/tai-khoan/" class="elementor-item" tabindex="-1">Tài khoản</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://tranngocduongg.github.io/koffe-new/thanh-toan/" class="elementor-item" tabindex="-1">Thanh toán</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://tranngocduongg.github.io/koffe-new/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-784"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item" tabindex="-1">Trang Chủ</a></li>
+				<ul id="menu-2-2c660e9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-959"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item" tabindex="-1">Trang Chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-960"><a href="https://tranngocduongg.github.io/koffe-new/home-2/" class="elementor-item" tabindex="-1">blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-961"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="https://tranngocduongg.github.io/koffe-new/about-us-2/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://tranngocduongg.github.io/koffe-new/home/" class="elementor-item" tabindex="-1">Contact</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -159,21 +159,21 @@
 								<div class="elementor-element elementor-element-92d19c0 elementor-nav-menu__align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="92d19c0" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-92d19c0" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://tranngocduongg.github.io/koffe-new/tai-khoan/" class="elementor-item">Tài khoản</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://tranngocduongg.github.io/koffe-new/thanh-toan/" class="elementor-item">Thanh toán</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://tranngocduongg.github.io/koffe-new/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item">Cửa hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-784"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item">Trang Chủ</a></li>
+				<ul id="menu-1-92d19c0" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-959"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item">Trang Chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-960"><a href="https://tranngocduongg.github.io/koffe-new/home-2/" class="elementor-item">blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-961"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="https://tranngocduongg.github.io/koffe-new/about-us-2/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://tranngocduongg.github.io/koffe-new/home/" class="elementor-item">Contact</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-92d19c0" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://tranngocduongg.github.io/koffe-new/tai-khoan/" class="elementor-item" tabindex="-1">Tài khoản</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://tranngocduongg.github.io/koffe-new/thanh-toan/" class="elementor-item" tabindex="-1">Thanh toán</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://tranngocduongg.github.io/koffe-new/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-784"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item" tabindex="-1">Trang Chủ</a></li>
+				<ul id="menu-2-92d19c0" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-959"><a href="https://tranngocduongg.github.io/koffe-new/" class="elementor-item" tabindex="-1">Trang Chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-960"><a href="https://tranngocduongg.github.io/koffe-new/home-2/" class="elementor-item" tabindex="-1">blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-961"><a href="https://tranngocduongg.github.io/koffe-new/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="https://tranngocduongg.github.io/koffe-new/about-us-2/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://tranngocduongg.github.io/koffe-new/home/" class="elementor-item" tabindex="-1">Contact</a></li>
 </ul>			</nav>
 				</div>
 				</div>
